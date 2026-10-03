@@ -20,7 +20,7 @@ function App() {
           letterSpacing: "1.2px"
         }}
       >
-        Welcome To Devops class AIDS
+        Welcome all AIDS students to Devops class 
       </h1> 
     </div>
   );
